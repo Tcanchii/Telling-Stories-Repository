@@ -9,9 +9,7 @@ I'm Thomas, I enjoy mathematics and logic puzzles.
 - General design theory
 - How to make data easier to parse
 
-# Portfolio
-
-# Examples
+# Portfolio Examples
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 Coming Soon!
