@@ -1,8 +1,8 @@
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+This is my public portfolio for Telling Stories with Data at CMU! 
 
 # About me
-I'm Thomas, I enjoy mathematics and logic puzzles.
+I'm Thomas, a student at CMU, that enjoys things like mathematics, formal logic, and lifting weights. Currently I have been enjoying climbing at a climbing gym. 
 
 # What I hope to learn
 - More indepth color theory
