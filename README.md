@@ -9,6 +9,8 @@ I'm Thomas, a student at CMU, that enjoys things like mathematics, formal logic,
 - General design theory
 - How to make data easier to parse
 
+After graduating I will be working in AI development so my hope with this class is to be able to make more user friendly designs. 
+
 # Portfolio Examples
 
 ## Assignment: [Visualizing Government Debt](visualizing-government-debt)
