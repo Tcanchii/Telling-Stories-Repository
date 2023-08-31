@@ -11,7 +11,7 @@ I'm Thomas, I enjoy mathematics and logic puzzles.
 
 # Portfolio Examples
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+## Assignment: [Visualizing Government Debt](visualizing-government-debt)
 Coming Soon!
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
