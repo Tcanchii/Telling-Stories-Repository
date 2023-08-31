@@ -13,4 +13,14 @@ I'm Thomas, I enjoy mathematics and logic puzzles.
 
 # Examples
 
-Coming soon!
+## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+Coming Soon!
+
+## Assignment 3&4: [Critique by Design](critique-by-design)
+Coming Soon!
+
+## Final project
+Coming Soon!
+[Part I](final-project-part-one)
+[Part II](final-project-part-two)
+Part III(final-project-part-three)
