@@ -14,7 +14,7 @@ After graduating I will be working in AI development so my hope with this class 
 # Portfolio Examples
 
 ## Assignment: [Visualizing Government Debt](visualizing-government-debt)
-Coming Soon!
+OECD Data visualized in three different ways!
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 Coming Soon!
