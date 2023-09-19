@@ -33,4 +33,6 @@ After making those changes I showed the second draft to my brother:
 
 He suggested that the numbering should be more clear and that the proper term "Battle Rating" should be used instead of the more informal "rank". After making these changes this lead me to the final product:
 
+# War Thunder Win Rates
+So you are a new to War Thunder and want to pick a nation to start with! The color is the winrates at the Battle Rating and the size approximates the amount of time you would spend at that Battle Rating, so nations with large green spots are generally stronger.
 <div class="flourish-embed flourish-scatter" data-src="visualisation/15061854"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
