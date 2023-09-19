@@ -17,8 +17,7 @@ After graduating I will be working in AI development so my hope with this class 
 OECD Data visualized in three different ways!
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
-Coming Soon!
-
+War Thunder Win rates for new players picking a nation.
 ## Final project
 Coming Soon!
 [Part I](final-project-part-one)
