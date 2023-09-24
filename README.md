@@ -19,7 +19,6 @@ OECD Data visualized in three different ways!
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 War Thunder Win rates for new players picking a nation.
 ## Final project
-Coming Soon!
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
 [Part III](final-project-part-three)
