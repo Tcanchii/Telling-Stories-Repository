@@ -15,6 +15,10 @@ The graphics I anticipate to be showing are the breakdowns for the maximum perce
 ![](finaldraft2.png)
 
 
+The other visual that might be beneficial would be breaking down the jobs by degree type \(colors\) and then showing that most aren't over centralized. I was thinking it might be interesting to show this "piecemeal" during the flow of the powerpoint where they are added one at a time to highlight first that math looks spread out then that all are with some few outliers.
+
+![](finaldraft3.png)
+
 # The data
 The data source I have is the census data that I pulled from [this website](https://datausa.io/). I'll need to pull the data from each page individually but as a sample, here is the [data](data2.csv) for jobs held by those with degrees in mathematics. 
 
