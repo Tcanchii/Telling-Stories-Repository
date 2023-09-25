@@ -8,7 +8,7 @@ The story would start with the idea that your degree would be important for sett
 
 ## Initial sketches
 
-The graphics I anticipate to be showing are the breakdowns for the maximum percent of graduates of a specific degree go into a single job type and the average of that same percent. Both should be relatively small from what I've seen which should highlight how well dispersed jobs are. It is difficult to make detailed sketches without actually doing the data analysis, but there might be something more interesting to glean from the data.
+The graphics I anticipate to be showing are the breakdowns for the maximum percent of graduates of a specific degree go into a single job type and the average of that same percent. Both should be relatively small from what I've seen which should highlight how well dispersed jobs are. It is difficult to make detailed sketches without actually doing the data analysis, but there might be something more interesting to glean from the data. Intentionally, these are not very colorful since there isn't really anything to point out since most are very low. If there are weird outliers beyond what I would expect then I might consider highlighting them with red or another color that draws attention to it.
 
 ![](finaldraft1.png) 
 
