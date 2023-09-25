@@ -7,9 +7,8 @@ Initially the goal of the project was to highlight the breadth of what mathemati
 The story would start with the idea that your degree would be important for setting yourself up for success in a given field, starting off with degrees like computer science where "most" of the individuals go into the same type of field. Then we would take notice that there is still a majority of them doing other types of jobs and switch to looking at other degrees like economics, physics, math, etc and seeing the ceiling on how specialized a degree's job opportunities are. Then I would go into the the analysis of the so what, where it is more about skill development rather than as a prerequisite for a specific job.
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-The graphics I anticipate to be showing are the breakdowns for the maximum percent of graduates of a specific degree go into a single job type and the average of that same percent. Both should be relatively small from what I've seen which should highlight how well dispersed jobs are. 
+The graphics I anticipate to be showing are the breakdowns for the maximum percent of graduates of a specific degree go into a single job type and the average of that same percent. Both should be relatively small from what I've seen which should highlight how well dispersed jobs are. It is difficult to make detailed sketches without actually doing the data analysis, but there might be something more interesting to glean from the data.
 
 ![](finaldraft1.png) 
 
