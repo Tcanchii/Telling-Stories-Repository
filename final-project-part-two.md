@@ -40,43 +40,32 @@ The main issue I have is that I feel like I am generally very to the point so my
 |Is there enough visuals|Is there any specific color choice or imagery that feels off?|
 |Is there enough visuals|Is there any color choice or imagery that feels missing?|
 
-
-
-
-
-Text here!
+Due to the timing of it all, I ended up asking two of them first, made some of the easy corrections, then showed it to the third person. 
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
+I interviewed three of my friends, all of whom are 26-27, two are in the MISM-BIDA program and one in ISPM. I expected the MISM-BIDA friends to give more technical feedback since they are both also in the course. My ISPM friend is from a strong humanities background so I figured they would give stronger feedback on the flow of the story. Below describes the takeaways I got from each person but the interview responses themselves are linked [here](https://docs.google.com/spreadsheets/d/1vEl8c2vpl0JuiZZK9X_Hj496drUW5yt9hZ_jEonpLh8/edit?usp=sharing). The third was done in person and not included. 
 
-Text here!
-
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Interview 1 (takeaways) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| Does the story seem long enough? | Length is dependent on the playing with interactive visuals|good length||
+|Is there anything you felt was missing in the story?|There are more concerning topics than type of job field such as expected salaries|provide outside sources||
+|Does the presentation flow well, or are there specific choppy parts?|graphs require playing with and the ending is choppy|ending is choppy with too many colors||
+|Is there any specific color choice or imagery that feels off?|tone was not effective|too wordy at the start||
+|Is there any color choice or imagery that feels missing?|word coloring was mostly a miss|first graph was not effective||
 
+Most of these ideas are actionable but there are a few that are not feasible. The main one that isn't particularly feasible is the inclusion of other topics such as expected salaries for job types. While that data does exist, it tells a completely different stroy where major does matter which would make the analysis too nuanced. The goal is for an audience that is searching for what they want to do independent from the salaries attached, and although this target audience may be admittedly small, it is still a target audience I can aim at with the data I currently have.
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
+The most important change is that the first graphic could be split into multiple ones. This serves two major purposes, the first is to make it less visually painful to look at since it can be made into bar graphs instead of a layers. The second, is that most of the length is looking at these specific graphs where splitting them out more deliberately will force the reader to take more time looking through them all.
 
-Text here!
+The next main change is that the colors should be dialed back to more neutral ideas, and the conclusion/call to action should be expanded a little further. Below are the highlighted changes
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| First graphic is not effective | Split it into multiple graphs for different majors, remove the year and just do the most recent \(or keep it for the first and note it doesn't change much over time\) and add a story walking through the different ones |
+|too much word colors|use word highlights very sparingly, maybe only at the start|
+|text over graphics was hard to read sometimes|consider changing some text over graphics to be more readable|
+|call to action was abrupt|include some more information about things to do|
+|tone was not effective|change tone to be more informative than conversational|
 
-> ...include any final thoughts you have here. 
-
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
-
+Overall I think these are all actionable changes. The only one I am unsure on is the text over graphics one since I feel as though my imagery is already feeling very sparse. Removing some of the middle text over graphics and include more charts might make the tone less exciting but it definitely makes the topic more digestable. Hopefully I can find a solid middle ground.
