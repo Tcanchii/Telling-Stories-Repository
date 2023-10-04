@@ -66,6 +66,8 @@ The next main change is that the colors should be dialed back to more neutral id
 |too much word colors|use word highlights very sparingly, maybe only at the start|
 |text over graphics was hard to read sometimes|consider changing some text over graphics to be more readable|
 |call to action was abrupt|include some more information about things to do|
-|tone was not effective|change tone to be more informative than conversational|
+|tone was not effective|consider changing tone to be more informative than conversational|
 
 Overall I think these are all actionable changes. The only one I am unsure on is the text over graphics one since I feel as though my imagery is already feeling very sparse. Removing some of the middle text over graphics and include more charts might make the tone less exciting but it definitely makes the topic more digestable. Hopefully I can find a solid middle ground.
+
+For tone I will likely keep it conversational but try and make it just flow a little better as a solution.
